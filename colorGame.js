@@ -1,8 +1,8 @@
 let numSquares = 6;
 //random colors for squares
-let colors ;
+let colors;
 //selecting the squares
-let pickedColor ;
+let pickedColor;
 const squares = document.querySelectorAll(".square");
 // selecting the RGB variable on h1
 const colorDisplay = document.getElementById("colorDisplay");
